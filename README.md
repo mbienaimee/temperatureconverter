@@ -107,7 +107,7 @@ bash
 
 flutter pub get
 Run the app on your emulator or connected device:
-bash
+on bash
 
 flutter run
 Contribution
